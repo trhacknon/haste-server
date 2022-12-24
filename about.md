@@ -31,7 +31,16 @@ URL with:
 After running that, the STDOUT output of `cat something` will show up at a URL
 which has been conveniently copied to your clipboard.
 
-That's all there is to that, and you can install it with `gem install haste`
+That's all there is to that, and you can install it with 
+
+`git clone https://github.com/trhacknon/haste-client`
+
+`cd haste-client`
+
+`gem build haste.gemspec`
+
+`gem install hastetrkn`
+
 right now.
   * osx: you will need to have an up to date version of Xcode
   * linux: you will need to have rubygems and ruby-devel installed
