@@ -22,7 +22,7 @@ Major design objectives:
 * Be easy to set up and use
 
 Haste works really well with a little utility called
-[haste-client](https://github.com/seejohnrun/haste-client), allowing you
+[haste-client](https://github.com/trhacknon/haste-client), allowing you
 to do things like:
 
 `cat something | haste`
@@ -372,7 +372,7 @@ John Crepezzi <john.crepezzi@gmail.com>
 
 (The MIT License)
 
-Copyright © 2011-2012 John Crepezzi
+Copyright © 2021-2022 trhacknon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the ‘Software’), to deal in
